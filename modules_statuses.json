@@ -1,4 +1,6 @@
 {
     "Blog": true,
-    "Category": true
+    "Category": true,
+    "User": true,
+    "Product": true
 }
